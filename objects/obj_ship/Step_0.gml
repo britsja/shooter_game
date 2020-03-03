@@ -12,5 +12,8 @@ if (keyboard_check(ord("W"))){
 
 move_wrap(true, true, sprite_width/2);
 
+if (keyboard_check(ord("S"))){
+	motion_add(image_angle, -0.05);
+}
 
 
