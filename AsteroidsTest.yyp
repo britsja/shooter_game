@@ -127,6 +127,22 @@
             }
         },
         {
+            "Key": "6533decc-035f-4798-b175-66ad59873265",
+            "Value": {
+                "id": "bd59e204-8e57-43f6-9344-490130244180",
+                "resourcePath": "sprites\\spr_debris\\spr_debris.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "66fa30d4-6609-4bb9-a61e-0ea8159ac68b",
+            "Value": {
+                "id": "1cf7cda9-ff17-48e2-967c-c1cc85076e0e",
+                "resourcePath": "objects\\obj_debris\\obj_debris.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6758293d-25d5-401c-befa-7a2cf163e885",
             "Value": {
                 "id": "6897c551-83c3-496d-b184-17281e13b9e7",
@@ -183,6 +199,14 @@
             }
         },
         {
+            "Key": "b4b3246c-794a-44f2-82f3-6fc3432ae11e",
+            "Value": {
+                "id": "0d1d1ba4-e5ac-4325-bd03-eea331ad5079",
+                "resourcePath": "objects\\obj_bullet\\obj_bullet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "bba0800b-2f5c-4a52-90de-331ce85f9e79",
             "Value": {
                 "id": "2b5672a1-85da-40c3-a782-711826b51ffb",
@@ -211,6 +235,14 @@
             "Value": {
                 "id": "d6814cb8-9ef8-47ad-b83c-99dc6a9adba0",
                 "resourcePath": "sprites\\spr_asteroid_medium\\spr_asteroid_medium.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e3e78bef-812b-466a-8beb-84e60eaf2091",
+            "Value": {
+                "id": "53b0a06f-6ec1-4c27-a98a-bd1405dc0a2e",
+                "resourcePath": "sprites\\spr_bullet\\spr_bullet.yy",
                 "resourceType": "GMSprite"
             }
         },
